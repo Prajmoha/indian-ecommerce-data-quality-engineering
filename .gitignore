@@ -31,6 +31,8 @@ crash.*.log
 .DS_Store
 Thumbs.db
 
-# Generated data
+# Generated / local data
+data/raw/
 data/processed/
 data/quarantine/
+outputs/
